@@ -1,5 +1,7 @@
 
-![Diagram](https://raw.githubusercontent.com/alperkal/Regex/master/src/Untitled%20Diagram.svg)
+![Diagram](https://raw.githubusercontent.com/alperkal/Regex/master/src/schema.png)
+
+
 
 # Regex.swift
 
