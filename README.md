@@ -1,7 +1,6 @@
 
 ![Diagram](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Falperkal%2FRegex%2Fmaster%2Fsrc%2FUntitled%2520Diagram.drawio)
 
-
 # Regex.swift
 
 [![Build Status](https://travis-ci.org/brynbellomy/Regex.svg?branch=0.2.1)](https://travis-ci.org/brynbellomy/Regex)
